@@ -31,7 +31,8 @@ So for example someone with 50 million Euros would be liable to pay `50-30 = 20 
 		- For each of the assets such recorded the german tax authorities asks to reveal it's owners
 		- Any asset for which no owner can be found shall be taxed directly at 5% at the asset level
 		- For any human owner we find we tax the owners directly asking them to declare their total assets (which we can somewhat verify by our ownership trails) and taxing them according to the stated mariginal tax rates
-		- For any non-human owner we find we again check how big the owned piece of that non-human owner is and start from the beginning flowing the trail of all non human owners worth more than 10,000,000€ and with some probability the trail for ownership pieces worth 300,000€
+		- For any non-human owner we find we again check how big the owned piece of that non-human owner is and start from the beginning flowing the trail of all non human owners worth more than 10,000,000€ and with some probability the trail for ownership pieces worth 300,000€ or more
+		- Any analyzed piece (eveything worth more than 10,000,000€ and the randomly chosen pieces worth 300,000€ or more) for which we can not find a human owner/beneficiary from which to determine the right tax rate will be informed to please reveal it's human owner/beneficiary if they don't then they last know part of the trail will be taxed at 5%
 
 - It should very explicitly be acceptable to pay the tax using company shares (in order to invalidate the "No liquidity" argument) that are then held by a state owned holding company. If that options is chosen the state shall receive the same percentage of all of the holdings of payee (in order to avoid a scenario in which the payee creates a special company with a high worth on paper, just to use it's shares to pay the taxes).
 
