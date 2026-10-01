@@ -21,6 +21,8 @@ Did you mean:
 If (b): how do you want to define "located in Germany" for intangible/financial assets specifically?
 
 **Answer:**
+An asset is located in Germany if it's ownership chain starts in Germany. For example a 100 million Euro Factory that is physically sitting in Germany that is financed by 60 million in equity that is held by a person in Switzerland and a 40 million Euro loan that is issued by a person in the UK then each of those will be taxed as if they own 60 million/40 million Euro of german assets respectively.
+If the UK Bank is owed by a wide variety of people then we take the total amout of german assets held by that bank and on paper distribute them proportionally to their ownership of the bank share to the share holders and then we treat those as as pieces of german assets using the described way of following chains of ownership and taxing. If it is a broadly owned bank with many small shareholders then then most will fall under the 30 million euro threshold and those will not be followed further. 
 
 ---
 
@@ -29,6 +31,7 @@ If (b): how do you want to define "located in Germany" for intangible/financial 
 This looks backwards as a deterrent — anyone whose true liability would exceed 5% (i.e. anyone who'd land in the upper brackets, or who just wants to avoid scrutiny) is financially better off staying anonymous than disclosing. The non-disclosure penalty rate should probably be at or above your maximum marginal rate — likely well above it — so there's no incentive to hide.
 
 **Answer:**
+There is no highest tax rate the increase continues after the end of the table, it is just for illustration, but currently there is no person in Germany richer than 300 billion Euros and 5% is a nice round number, also if anybody reaches that level that is very likely going to be public knowledge and difficult to hide in obscurity.
 
 ---
 
@@ -40,6 +43,8 @@ Do you want a simplified/safe-harbor valuation method (as used in Switzerland or
 
 **Answer:**
 
+Please elaborate on what exactly Switzerland and Norway are doing.
+
 ---
 
 ## 4. Individual assessment or household/family unit?
@@ -47,6 +52,7 @@ Do you want a simplified/safe-harbor valuation method (as used in Switzerland or
 The brackets as written apply per individual. A married couple could simply split ownership 50/50 and roughly halve their effective bracket. Is that intended, or should there be household/family-unit aggregation (similar to France's "foyer fiscal" under the ISF/IFI)?
 
 **Answer:**
+Yes that is as intended
 
 ---
 
@@ -55,6 +61,9 @@ The brackets as written apply per individual. A married couple could simply spli
 Is net worth = assets minus *all* liabilities? If so, a loan from a related offshore entity could zero out apparent net worth on paper while the borrower keeps full economic control of the asset. Do you want an anti-abuse/look-through rule for related-party or non-arm's-length debt?
 
 **Answer:**
+A loan is an ownership trail just like equity ownership is an ownership trail and still subject to taxation in this case the owner of the offshore entity would be charged as they own the value of the loan.
+
+
 
 ---
 
@@ -67,6 +76,9 @@ Over decades of compounding payments, the state could become a significant or ev
 
 **Answer:**
 
+Please do give me some examples on how valuation is usually done
+
+
 ---
 
 ## 7. Mittelstand / family businesses
@@ -74,6 +86,7 @@ Over decades of compounding payments, the state could become a significant or ev
 At a €30m threshold, this reaches a real number of asset-rich but cash-poor family-owned "Hidden Champions." Paying in shares solves pure liquidity, but still means steady dilution of family control over time. Do you want a deferral or exemption mechanism (note: the Greens' current Bundestag motion is actually moving to *abolish* existing exemptions for operating assets above €26m — so there's a real tension/touchpoint here), or is gradual dilution via shares the intended mechanism and you're fine with that?
 
 **Answer:**
+I do not want any exemptions here, tough an extra option might be usefull. So in addtion to directly paying using shares (in which case the state becomes an owner that can sell the shares when it sees fit) the state also facilitates the creation of a special type of loan against equity for the purpose of paying the taxes, potentially via the KfW or similar, were some part of equity is explicitly frozen/held in retainer for the express purpose of guaranteeing the loan that is used to pay the taxes.
 
 ---
 
@@ -82,6 +95,7 @@ At a €30m threshold, this reaches a real number of asset-rich but cash-poor fa
 Your entry point (€30m) sits between the Grundsatzprogramm (€2m, 1%) and the Fraktion's current "Extremvermögen" concept (€500m, 2%). Should the Begründung explicitly frame this as a bridge/correction between the two, or should the Antrag stand on its own logic independent of that comparison?
 
 **Answer:**
+Own independent logic 
 
 ---
 
@@ -90,6 +104,8 @@ Your entry point (€30m) sits between the Grundsatzprogramm (€2m, 1%) and the
 Who should this be addressed to — the NRW Landtagsfraktion, a call on the Bundestagsfraktion, or a demand at the level of the federal party/Grundsatzprogramm? This determines the required format and wording under the LDK's Geschäftsordnung.
 
 **Answer:**
+
+Please elaborate/ give me some examples here
 
 ---
 
@@ -101,5 +117,8 @@ You describe a direct credit (wealth tax due minus income/capital-gains tax paid
 - Should only German taxes count, or also taxes paid abroad (relevant together with Question 1)?
 
 **Answer:**
+
+Please explain the difference between the two with an example
+As only German assets are taxed (not those held abroad), only German taxes should counteract
 
 ---
